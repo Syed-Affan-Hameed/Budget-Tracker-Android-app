@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:layout_height="47dp"
+    android:orientation="horizontal"
+    android:clickable="true"
+    android:background="?selectableItemBackground">
+    <TextView
+        android:id="@+id/txtlabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Example Text"
+        android:textSize="22sp"
+        android:layout_weight="1"
+        android:padding="3dp"
+        android:layout_margin="5dp"/>
+    <TextView
+        android:id="@+id/txtamount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="₹10000"
+        android:textSize="22sp"
+        android:padding="3dp"
+        android:layout_margin="5dp"/>
+
+</LinearLayout>

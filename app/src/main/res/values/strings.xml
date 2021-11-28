@@ -1,0 +1,20 @@
+
+
+<resources>
+    <string name="app_name">Budget Tracker</string>
+
+
+
+
+
+        <!-- href tag is used to add link-->
+        <!-- link for home text view-->
+        <string name="hyperlink"><a href="https://www.flaticon.com/authors/kerismaker">Kerismaker</a></string>
+        <!-- link for practice textview-->
+        <string name="hyperlink2"><a href="https://www.flaticon.com/authors/icon-home">Icon Home</a></string>
+
+
+
+
+
+</resources>
