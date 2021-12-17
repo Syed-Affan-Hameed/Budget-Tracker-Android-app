@@ -22,9 +22,9 @@ The Budget Tracker app creates a local database for you to store your expenditur
  * The 'Budget' and 'Expense' Values get updated accordingly.
  * <img src="/images/remove_right_swipe.png" height="600" >
  * Right Swipe to delete the transactions
- * <img src="/images/splash_screen.png" height="600" >
+ * <img src="/images/remove_right_swipe2.png" height="600" >
  * Use 'undo' option in the snackbar to restore the transaction
 
-* <img src="/images/splash_screen.png" height="600" >
+* <img src="/images/undo.png" height="600" >
 
 
