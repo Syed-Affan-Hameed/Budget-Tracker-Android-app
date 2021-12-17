@@ -18,9 +18,9 @@ The Budget Tracker app creates a local database for you to store your expenditur
  * Use negative value for expenditures (Ex -500) to deduct from your budget.
  * <img src="/images/add_new_transaction.png" height="600" >
  * Add a descripition just in case....
- * <img src="/images/splash_screen.png" height="600" >
+ * <img src="/images/view_screen.png" height="600" >
  * The 'Budget' and 'Expense' Values get updated accordingly.
- * <img src="/images/splash_screen.png" height="600" >
+ * <img src="/images/remove_right_swipe.png" height="600" >
  * Right Swipe to delete the transactions
  * <img src="/images/splash_screen.png" height="600" >
  * Use 'undo' option in the snackbar to restore the transaction
