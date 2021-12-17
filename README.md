@@ -5,7 +5,7 @@ Free and Lightweight Budget Tracker android application
 Budget tracker makes managing your everyday expenses as easy as it can get.
 Get your expenditures under control with easy-to-use budget tracker in your smartphone.
 
-<img src="https://github.com/Syed-Affan-Hameed/Budget-Tracker-Android-app/blob/main/images/splash_screen.png" height="600" >
+<img src="/images/splash_screen.png" height="600" >
 
 # Usage
 The Budget Tracker app creates a local database for you to store your expenditure history.
