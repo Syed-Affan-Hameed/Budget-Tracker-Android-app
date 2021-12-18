@@ -1,5 +1,5 @@
 # Budget-Tracker-Android-app
-Free and Lightweight Budget Tracker android application 
+Free and Lightweight Budget Tracker android application.<br /> 
 Please switch to master branch to view/download the code.
 
 # Description 
