@@ -1,5 +1,6 @@
 # Budget-Tracker-Android-app
 Free and Lightweight Budget Tracker android application 
+Please switch to master branch to view/download the code.
 
 # Description 
 Budget tracker makes managing your everyday expenses as easy as it can get.
